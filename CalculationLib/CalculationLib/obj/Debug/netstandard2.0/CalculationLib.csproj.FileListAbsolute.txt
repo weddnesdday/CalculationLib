@@ -1,0 +1,9 @@
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\bin\Debug\netstandard2.0\CalculationLib.deps.json
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\bin\Debug\netstandard2.0\CalculationLib.pdb
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.csprojAssemblyReference.cache
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.AssemblyInfoInputs.cache
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.AssemblyInfo.cs
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.csproj.CoreCompileInputs.cache
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.dll
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.pdb
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CalculationLib\obj\Debug\netstandard2.0\CalculationLib.csproj.CopyComplete

@@ -1,0 +1,5 @@
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CulculationApp\obj\Debug\CalculationApp.csproj.CoreCompileInputs.cache
+D:\Users\izbagambetova.aa1607\source\repos\CalculationLib\CulculationApp\obj\Debug\CalculationApp.csprojAssemblyReference.cache
+E:\CalculationLib\CulculationApp\obj\Debug\CalculationApp.csproj.AssemblyReference.cache
+E:\CalculationLib\CulculationApp\obj\Debug\CalculationApp.csproj.SuggestedBindingRedirects.cache
+E:\CalculationLib\CulculationApp\obj\Debug\CalculationApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CulculationApp\CalculationApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CalculationLib">
+      <HintPath>bin\Debug\netstandard2.0\CalculationLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4ef/rMK9XpW8D++WSJdWUdW9FOLV6N+MOzQ3yAA/7zm82ME1r/AeoLFIgOL7LDPWqvwIUd5Qq0O4D4amD+p3A==",
+  "success": true,
+  "projectFilePath": "E:\\CalculationLib\\CalculationLib\\CalculationLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
